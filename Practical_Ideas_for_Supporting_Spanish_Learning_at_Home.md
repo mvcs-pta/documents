@@ -174,9 +174,9 @@ program go into a Spanish class for DL students when they enter 6th grade.
 **What this resource booklet is not**
 
 This resource booklet does not replace the useful handbook that ACPS put together in
-2016 entitled Dual Language Parent Handbook, found on the ACPS website at https://
-www.acps.k12.va.us/cms/lib/VA01918616/Centricity/Domain/809/dual-language-hand-
-book.pdf. There you will find administrative and research information about an effective
+2016 entitled Dual Language Parent Handbook, found on the ACPS website at 
+https://www.acps.k12.va.us/cms/lib/VA01918616/Centricity/Domain/809/dual-language-hand-book.pdf. 
+There you will find administrative and research information about an effective
 dual language program, which schools offer a DL program, along with other ACPS
 information. The handbook provides general information about how your learner may
 progress through the stages of second language acquisition, how long it takes to learn
@@ -269,8 +269,8 @@ Cognates are words in Spanish and English that share the same Latin, Greek and/
 or Arabic root. They have very similar spelling and have the same or similar meaning.
 Since they look and mean the same thing it is an easy word to remember. For example,
 interesante in Spanish means interesting in English, gratitud in Spanish means the same
-as gratitude in English and so on. For more information, this is a good article: https://
-www.realfastspanish.com/vocabulary/spanish-cognates
+as gratitude in English and so on. For more information, this is a good article: 
+https://www.realfastspanish.com/vocabulary/spanish-cognates
 
 Cognates are helpful and are considered “amigos” for native English speakers learning
 Spanish. However, there are also “amigos falsos,” or “false friends,” which look like their
@@ -393,8 +393,8 @@ Spanish Language Arts Report Card. This is typically provided in K-2. Please see
 appendix for a sample.
 
 Upper Grades Spanish and English Vocabulary. You can use the following link to access
-a list of vocabulary and related grammar used in Grades 3-5. https://drive.google.com/
-file/d/18UtbZV6GgkuI8xzUd9L1j-KbWU6ns3sR/view?usp=sharing
+a list of vocabulary and related grammar used in Grades 3-5. 
+https://drive.google.com/file/d/18UtbZV6GgkuI8xzUd9L1j-KbWU6ns3sR/view?usp=sharing
 
 Below is a brief description by grade of what students learn and the outline of their day
 in Spanish and English. ACPS has two dual language schools, MVCS and John Adams
@@ -721,11 +721,11 @@ https://www.fluentu.com/blog/spanish/spanish-learning-websites-for-kids/
 
 **MVCS Parent Recommendations**
 
-* The ACPS website has a Dual Language Program page (https://www.acps.
-  k12.va.us/Domain/809). In addition to general program information and FAQs
-  about the program, there are also links to Parent Resources (https://www.acps.
-  k12.va.us/Page/2059) and Academic Resources (https://www.acps.k12.va.us/
-  Page/383#adults).
+* The ACPS website has a Dual Language Program page (https://www.acps.k12.va.us/Domain/809). 
+  In addition to general program information and FAQs
+  about the program, there are also links to Parent Resources 
+  (https://www.acps.k12.va.us/Page/2059) and Academic Resources 
+  (https://www.acps.k12.va.us/Page/383#adults).
 * Google Translate is used by parents that are not fluent in Spanish. “Google’s free
   service instantly translates words, phrases, and web pages between English and
   over 100 other languages.” Also, available as an app. While this has improved
